@@ -1,0 +1,4 @@
+Week 3 of the project was spent getting the "hand shake" between the client and server completely
+down. Once we did that, we were able to focus on getting multiple clients to be able to chat
+to each other via the server. Once the connection was facilitated, it was just a manner of 
+configuring the strings in a way that they could be transmitted over the socket. 

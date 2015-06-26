@@ -1,0 +1,5 @@
+Week4 is when we wrapped everything together. The client now communicates everything to the server.
+When a user is created, the account is saved with the server. When a user logs in, the server
+checks to see that it is a valid account or not. All message data is sent correctly and smoothly
+from the clients to the server. We wanted to do a GUI, but found that we did not have time to complete
+a good looking one, so we tried to make the messages on the command line as clean as possible. 

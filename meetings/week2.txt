@@ -1,0 +1,8 @@
+This week we have met once. This meeting was to go over the progress that each of us had
+made. It turns out that both of us have been encountering problems. Ryan's main problem was that 
+the server only allows one connection at a time. Liam's main problem is making the connection
+with the server socket. In this meeting we had to clarify with each other what type of socket
+we were using and how we were going to facilitate this connection between the client and the server.
+Although these details should have been discussed in week 1, limited knowledge of client/server
+technology restricted us from considering these dilemmas. We hope to complete the server and client
+by Sunday 2/22.

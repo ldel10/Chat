@@ -1,0 +1,4 @@
+In week 1 we met once. This meeting was meant to delegate roles, and figure out due dates
+of deliverables. We decided that Liam will be doing the client, while Ryan completes the server.
+The expected due date of this would be Sunday 2/22. This should give us enough time to get our code
+working together, and to start the next subset of our application.
